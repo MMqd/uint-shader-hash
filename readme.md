@@ -4,7 +4,7 @@ Fast, deterministic, and extensible uint-based hash for GLSL and Godot shaders. 
 
 Repository for the following MMqd video:
 
-[![alt text](https://img.youtube.com/vi/VideoID/0.jpg)](http://www.youtube.com/watch?v=VideoID "video name")
+[![A dark-themed code editor showing the snippet `void fragment() { COLOR = vec3(hash(UV)); }`, with `hash(UV)` highlighted in blue and a red arrow pointing at it, and bold white text reading "Broken."](https://img.youtube.com/vi/EmD0wYZZ0Z0/0.jpg)](http://www.youtube.com/watch?v=EmD0wYZZ0Z0 "The Function Every Graphics Programmer Gets Wrong")
 
 ---
 
